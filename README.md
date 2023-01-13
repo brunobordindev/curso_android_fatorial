@@ -33,7 +33,7 @@ MainActivity3
 
 Model - fatorial
 
-<img src="https://user-images.githubusercontent.com/72177982/212346890-31961d11-faf5-41c9-9a97-c02d1106118f.png" width=“95%">
+<img src="https://user-images.githubusercontent.com/72177982/212348044-787596bc-f3e6-49c1-a588-877182d9a692.png" width=“95%">
 
 
 
