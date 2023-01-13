@@ -24,7 +24,7 @@ MainActivity2
 
 Usando fatorial
 
-<img src="https://user-images.githubusercontent.com/72177982/212346864-a2a80216-fd8f-4b76-bdb2-cc73fb5f924b.png" width="25%">
+<img src="https://user-images.githubusercontent.com/72177982/212346864-a2a80216-fd8f-4b76-bdb2-cc73fb5f924b.png" width="75%">
 
 
 MainActivity3
